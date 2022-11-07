@@ -19,5 +19,3 @@ repo = 'vim-airline/vim-airline-themes'
 [[plugins]]
 repo = 'bronson/vim-trailing-whitespace'
 
-[[plugins]]
-repo = ''

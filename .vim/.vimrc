@@ -32,7 +32,7 @@ if dein#check_install()
     call dein#install()
 endif
 
-" color設定 
+" color設定
 syntax enable
 colorscheme spaceduck
 
