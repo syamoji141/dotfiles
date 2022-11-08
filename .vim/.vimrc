@@ -71,3 +71,7 @@ set tabstop=4
 " 行頭でのtab表示幅
 set shiftwidth=4
 set smartindent
+" 行番号カラー変更
+:highlight lineNr ctermfg=146
+" コメントのカラー変更
+:hi Comment ctermfg=60
